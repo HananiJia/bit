@@ -1,0 +1,21 @@
+﻿生成启动时间为 2017/12/26 15:50:07。
+     1>项目“D:\程序\BFS广度优先搜索\BFS广度优先搜索\BFS广度优先搜索.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>d:\程序\bfs广度优先搜索\bfs广度优先搜索\源.cpp(35): error C2039: “data”: 不是“VNode”的成员
+                 d:\程序\bfs广度优先搜索\bfs广度优先搜索\源.cpp(12) : 参见“VNode”的声明
+     1>d:\程序\bfs广度优先搜索\bfs广度优先搜索\源.cpp(62): error C2039: “data”: 不是“VNode”的成员
+                 d:\程序\bfs广度优先搜索\bfs广度优先搜索\源.cpp(12) : 参见“VNode”的声明
+     1>d:\程序\bfs广度优先搜索\bfs广度优先搜索\源.cpp(73): error C2039: “data”: 不是“VNode”的成员
+                 d:\程序\bfs广度优先搜索\bfs广度优先搜索\源.cpp(12) : 参见“VNode”的声明
+     1>d:\程序\bfs广度优先搜索\bfs广度优先搜索\源.cpp(80): error C2039: “data”: 不是“VNode”的成员
+                 d:\程序\bfs广度优先搜索\bfs广度优先搜索\源.cpp(12) : 参见“VNode”的声明
+                 d:\程序\bfs广度优先搜索\bfs广度优先搜索\源.cpp(12) : 参见“VNode”的声明
+     1>d:\程序\bfs广度优先搜索\bfs广度优先搜索\源.cpp(98): error C2039: “data”: 不是“VNode”的成员
+                 d:\程序\bfs广度优先搜索\bfs广度优先搜索\源.cpp(12) : 参见“VNode”的声明
+     1>已完成生成项目“D:\程序\BFS广度优先搜索\BFS广度优先搜索\BFS广度优先搜索.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:05.58
