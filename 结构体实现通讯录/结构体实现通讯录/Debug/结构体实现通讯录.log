@@ -1,0 +1,15 @@
+﻿生成启动时间为 2018/3/19 23:37:59。
+     1>项目“D:\程序\结构体实现通讯录\结构体实现通讯录\结构体实现通讯录.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>d:\程序\结构体实现通讯录\结构体实现通讯录\源.cpp(27): warning C4091: “typedef ”: 没有声明变量时忽略“People”的左侧
+     1>d:\程序\结构体实现通讯录\结构体实现通讯录\源.cpp(32): warning C4091: “typedef ”: 没有声明变量时忽略“List”的左侧
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\程序\结构体实现通讯录\Debug\结构体实现通讯录.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\程序\结构体实现通讯录\Debug\结构体实现通讯录.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\程序\结构体实现通讯录\Debug\结构体实现通讯录.lib" /MACHINE:X86 "Debug\源.obj"
+         结构体实现通讯录.vcxproj -> D:\程序\结构体实现通讯录\Debug\结构体实现通讯录.exe
+     1>已完成生成项目“D:\程序\结构体实现通讯录\结构体实现通讯录\结构体实现通讯录.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.62
