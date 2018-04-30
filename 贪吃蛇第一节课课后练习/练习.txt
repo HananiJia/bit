@@ -1,0 +1,24 @@
+作业：
+
+1. 利用讲过的 GetStdHandle 和 SetConsoleCursorPosition 自己把 _SetPos 控制光标位置的函数实现出来
+
+MSDN 地址:
+	https://docs.microsoft.com/en-us/windows/console/getstdhandle
+	https://docs.microsoft.com/en-us/windows/console/setconsolecursorposition
+
+2. 把课堂上讲过的画边框 _DisplayWall 函数完整实现出来
+
+
+下面的部分属于扩展练习了，有兴趣的同学可以自己尝试实现下贪吃蛇部分
+
+涉及按键处理部分，可以看下代码中保留的 ESC 键的处理
+
+MSDN 地址
+	https://msdn.microsoft.com/en-us/library/windows/desktop/ms646293(v=vs.85).aspx
+	https://msdn.microsoft.com/en-us/library/windows/desktop/dd375731(v=vs.85).aspx
+
+
+** 注意 **
+因为留给大家的代码里保留了 ESC 键的退出功能，所以对其他按键都没有做响应，运行起来需要按 ESC 才能退出
+
+
