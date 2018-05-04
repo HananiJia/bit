@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "运行main函数实现计算", "运行main函数实现计算\运行main函数实现计算.vcxproj", "{ECCAF511-DCFA-47E7-98C5-24A4A744928C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECCAF511-DCFA-47E7-98C5-24A4A744928C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ECCAF511-DCFA-47E7-98C5-24A4A744928C}.Debug|Win32.Build.0 = Debug|Win32
+		{ECCAF511-DCFA-47E7-98C5-24A4A744928C}.Release|Win32.ActiveCfg = Release|Win32
+		{ECCAF511-DCFA-47E7-98C5-24A4A744928C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
