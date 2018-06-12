@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "计算二叉树的结点个数", "计算二叉树的结点个数\计算二叉树的结点个数.vcxproj", "{1FFCEC63-F273-44D7-8B0C-0CCEC217D0B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FFCEC63-F273-44D7-8B0C-0CCEC217D0B0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1FFCEC63-F273-44D7-8B0C-0CCEC217D0B0}.Debug|Win32.Build.0 = Debug|Win32
+		{1FFCEC63-F273-44D7-8B0C-0CCEC217D0B0}.Release|Win32.ActiveCfg = Release|Win32
+		{1FFCEC63-F273-44D7-8B0C-0CCEC217D0B0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
