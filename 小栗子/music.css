@@ -1,0 +1,182 @@
+
+body{
+	background-color:#d2d5d6;
+	margin:0px;
+	padding:0px;
+	font-family:微软雅黑, sans-serif;
+	height:100%;
+	
+}
+.wapper{
+width:440px;
+height:500px;
+background-color:#eef1f2;
+position:relative;
+top:35px;
+margin:0 auto;
+border-radius:10px;
+box-shadow:0px 6px 7px #999;
+overflow:hidden;
+}
+
+.background{
+	width:100%;
+	height:270px;
+   position:relative;
+  
+}
+.music-lyric{
+	width:100%;
+	height:230px;
+	color:white;
+	background-color:rgba(100,100,100,0.5);
+	text-align:center;
+	padding:20px 0;
+}
+
+.lyric{
+	list-style-type:none;
+	padding-left:0px;
+}
+.background .music-lyric ul{
+	position:relative;
+	transition:all 1s;
+}
+.lyric li{
+	color:rgba(255,255,255,0.6);
+	font-size:12px;
+	padding:5px 0 2px 0;
+	transition:all 1s;
+	position:relative;
+	text-align:center;
+}
+.lyric li.active{
+	font-size:15px;
+	color:#ffffff;
+	font-weight:bold;
+}
+.content{
+	width:400px;
+	height:100px;
+	padding:20px 20px 10px 20px;
+	overflow:hidden;
+
+}
+.music-message{
+	display:inline-block;
+	width:200px;
+	height;100%;
+}
+p{
+	margin:0px;
+}
+.musicname{
+	font-weight:bold;
+	font-size:26px;
+
+	
+
+}
+.musicer{
+	font-weight:bold;
+	font-size:18px;
+	
+
+}
+.text_space{
+	white-space:nowrap;
+	text-overflow:ellipsis;
+	overflow:hidden;
+	width:280px;
+}
+.record{
+	font-size:14px;
+	margin-top:4px;
+}
+.text_color{
+	color:#455569;
+}
+.music-icon{
+	float:right; 
+	
+	margin-right:1px;
+	
+}
+
+span.stared{color:#feec98}
+span.loved{color:#fe8698}
+.m-icon {
+	font-size:22px;
+	text-decoration:none
+}
+.m-color
+{
+	color:#cdd2d7;
+}
+.music-play
+{
+	height:50px;
+	width:400px;
+	padding-top: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.m-left{
+	float:left;
+	margin-right:5px;
+	text-align:center;
+}
+.m-right{
+	float:right;
+	margin-right:10px;
+	margin-top:15px;
+	text-align:center;
+}
+.mincircle{
+	width: 28px;
+    height: 28px;
+    border-radius: 150px;
+    background-color: #414141;
+	margin-left:0px;
+	line-height:28px;
+	font-size:16px;
+	margin-top:11px;
+
+	
+  
+}
+
+.maxcircle{
+	width: 38px;
+    height: 38px;
+    border-radius: 150px;
+    background-color: #414141;
+	margin-left:-10px;
+	line-height:38px;
+	font-size:20px;
+	margin-top:5px;
+}
+
+.basebar{
+	display:block;
+	width:400px;
+	height:4px;
+	border:none;
+	background-color:#414141;
+	border-radius:2px;
+	margin: 0 auto 10px auto;
+
+}
+
+.progressbar{
+	display:block;
+	border:none;
+	width:0%;
+	height:4px;
+	border-radius:2px;
+	background-color:#cdd2d7;
+}
+.lyriced{color:#414141}
+.recycleed{color:#414141}
+.colored{color:#cdd2d7}
