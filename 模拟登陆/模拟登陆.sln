@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "模拟登陆", "模拟登陆\模拟登陆.vcxproj", "{E3ACE511-8535-4F3B-8AD8-9F99127E5420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3ACE511-8535-4F3B-8AD8-9F99127E5420}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E3ACE511-8535-4F3B-8AD8-9F99127E5420}.Debug|Win32.Build.0 = Debug|Win32
+		{E3ACE511-8535-4F3B-8AD8-9F99127E5420}.Release|Win32.ActiveCfg = Release|Win32
+		{E3ACE511-8535-4F3B-8AD8-9F99127E5420}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
