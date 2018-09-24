@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "剑指offer--最小的k个数", "剑指offer--最小的k个数\剑指offer--最小的k个数.vcxproj", "{A1DDACFD-F4D6-4A83-9C09-9251FEE346DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1DDACFD-F4D6-4A83-9C09-9251FEE346DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A1DDACFD-F4D6-4A83-9C09-9251FEE346DB}.Debug|Win32.Build.0 = Debug|Win32
+		{A1DDACFD-F4D6-4A83-9C09-9251FEE346DB}.Release|Win32.ActiveCfg = Release|Win32
+		{A1DDACFD-F4D6-4A83-9C09-9251FEE346DB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
