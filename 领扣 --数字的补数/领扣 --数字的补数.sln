@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "领扣 --数字的补数", "领扣 --数字的补数\领扣 --数字的补数.vcxproj", "{73BAD60D-587B-4FDD-93C0-6FEC3886C865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73BAD60D-587B-4FDD-93C0-6FEC3886C865}.Debug|Win32.ActiveCfg = Debug|Win32
+		{73BAD60D-587B-4FDD-93C0-6FEC3886C865}.Debug|Win32.Build.0 = Debug|Win32
+		{73BAD60D-587B-4FDD-93C0-6FEC3886C865}.Release|Win32.ActiveCfg = Release|Win32
+		{73BAD60D-587B-4FDD-93C0-6FEC3886C865}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
