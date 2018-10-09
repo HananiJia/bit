@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "领扣--键盘行", "领扣--键盘行\领扣--键盘行.vcxproj", "{9F8AA81C-3BD6-4A16-A8EB-29EEF981F524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F8AA81C-3BD6-4A16-A8EB-29EEF981F524}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F8AA81C-3BD6-4A16-A8EB-29EEF981F524}.Debug|Win32.Build.0 = Debug|Win32
+		{9F8AA81C-3BD6-4A16-A8EB-29EEF981F524}.Release|Win32.ActiveCfg = Release|Win32
+		{9F8AA81C-3BD6-4A16-A8EB-29EEF981F524}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
