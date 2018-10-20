@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "领扣--重塑矩阵", "领扣--重塑矩阵\领扣--重塑矩阵.vcxproj", "{A46C13EB-861A-4E04-A2BD-65A3BEC3B058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A46C13EB-861A-4E04-A2BD-65A3BEC3B058}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A46C13EB-861A-4E04-A2BD-65A3BEC3B058}.Debug|Win32.Build.0 = Debug|Win32
+		{A46C13EB-861A-4E04-A2BD-65A3BEC3B058}.Release|Win32.ActiveCfg = Release|Win32
+		{A46C13EB-861A-4E04-A2BD-65A3BEC3B058}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
