@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "领扣--数组中的最长山脉", "领扣--数组中的最长山脉\领扣--数组中的最长山脉.vcxproj", "{86F33FBA-DF66-4CC1-B7AA-A198EC7CE830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F33FBA-DF66-4CC1-B7AA-A198EC7CE830}.Debug|Win32.ActiveCfg = Debug|Win32
+		{86F33FBA-DF66-4CC1-B7AA-A198EC7CE830}.Debug|Win32.Build.0 = Debug|Win32
+		{86F33FBA-DF66-4CC1-B7AA-A198EC7CE830}.Release|Win32.ActiveCfg = Release|Win32
+		{86F33FBA-DF66-4CC1-B7AA-A198EC7CE830}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
