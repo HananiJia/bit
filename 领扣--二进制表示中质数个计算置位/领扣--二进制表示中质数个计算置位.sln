@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "领扣--二进制表示中质数个计算置位", "领扣--二进制表示中质数个计算置位\领扣--二进制表示中质数个计算置位.vcxproj", "{1081A001-8D9B-41C0-B8F5-CC378ACE4973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1081A001-8D9B-41C0-B8F5-CC378ACE4973}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1081A001-8D9B-41C0-B8F5-CC378ACE4973}.Debug|Win32.Build.0 = Debug|Win32
+		{1081A001-8D9B-41C0-B8F5-CC378ACE4973}.Release|Win32.ActiveCfg = Release|Win32
+		{1081A001-8D9B-41C0-B8F5-CC378ACE4973}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
