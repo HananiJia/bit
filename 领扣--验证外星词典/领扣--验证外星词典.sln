@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "领扣--验证外星词典", "领扣--验证外星词典\领扣--验证外星词典.vcxproj", "{EA3EF1AC-65CA-4A2A-835A-5C38EDD00375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA3EF1AC-65CA-4A2A-835A-5C38EDD00375}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA3EF1AC-65CA-4A2A-835A-5C38EDD00375}.Debug|Win32.Build.0 = Debug|Win32
+		{EA3EF1AC-65CA-4A2A-835A-5C38EDD00375}.Release|Win32.ActiveCfg = Release|Win32
+		{EA3EF1AC-65CA-4A2A-835A-5C38EDD00375}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
